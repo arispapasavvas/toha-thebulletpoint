@@ -1,4 +1,4 @@
-module github.com/hugo-themes/toha-example-site
+module github.com/arispapasavvas/toha-thebulletpoint.git
 
 go 1.25
 
